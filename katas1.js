@@ -116,6 +116,9 @@ function squareNumbersBackwards() {
    /* Your code goes below
   Write a for or a while loop
   return the result */
+  for (i = 10; i >= 1; i--){
+    return i * i
+  }
 }
 
 //call function squareNumbersBackwards
