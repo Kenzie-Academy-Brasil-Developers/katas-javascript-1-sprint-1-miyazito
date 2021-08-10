@@ -73,6 +73,9 @@ function oddNumbersBackwards() {
  /* Your code goes below
   Write a for or a while loop
   return the result */
+  for (i = 19; i >= 1; i -= 2){
+    return i
+  }
 }
 
 //call function oddNumbersBackwards
