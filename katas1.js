@@ -1,9 +1,11 @@
 function oneThroughTwenty() {
-    
    /* Your code goes below
    Write a for or a while loop
    return the result*/
-    
+  for (let i = 0; i <= 20; i++){
+    return i
+  }
+
 }
 
 //call function oneThroughTwenty
