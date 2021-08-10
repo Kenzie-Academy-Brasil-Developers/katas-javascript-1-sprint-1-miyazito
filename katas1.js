@@ -80,6 +80,9 @@ function evenNumbersBackwards() {
  /* Your code goes below
   Write a for or a while loop
   return the result */
+  for (i = 20; i >= 1; i -= 2){
+    return i
+  }
 }
 
 //call function evenNumbersBackwards
