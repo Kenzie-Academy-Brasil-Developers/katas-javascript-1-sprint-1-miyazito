@@ -55,6 +55,9 @@ function countingBackwards() {
   /* Your code goes below
   Write a for or a while loop
   return the result */
+  for (i = 20; i >= 1; i--){
+    return i
+  }
 }
 
 //call function countingBackwards
