@@ -55,6 +55,9 @@ function squareNumbers() {
  /* Your code goes below
   Write a for or a while loop
   return the result */
+  for (i = 1; i <= 10; i++){
+    return i * i
+  }
     
 }
 
