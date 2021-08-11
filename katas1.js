@@ -29,14 +29,11 @@ function oddsToTwenty() {
 //call function oddsToTwenty
 
 function multiplesOfFive() {
-    
-  /* Your code goes below
-  Write a for or a while loop
-  return the result */
+  let result4 = []
   for (i = 1 ; i <= 20; i++){
-    return i * 5
+    result4.push(i * 5)
   }
-
+  return result4
 }
 
 //call function multiplesOfFive
