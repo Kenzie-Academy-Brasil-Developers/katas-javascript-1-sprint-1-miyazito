@@ -49,13 +49,11 @@ function squareNumbers() {
 //call function squareNumbers
 
 function countingBackwards() {
-    
-  /* Your code goes below
-  Write a for or a while loop
-  return the result */
+  let result6 = []
   for (i = 20; i >= 1; i--){
-    return i
+    result6.push(i)
   }
+  return result6
 }
 
 //call function countingBackwards
