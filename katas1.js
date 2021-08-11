@@ -59,13 +59,11 @@ function countingBackwards() {
 //call function countingBackwards
 
 function evenNumbersBackwards() {
-    
- /* Your code goes below
-  Write a for or a while loop
-  return the result */
+  let result7 = []
   for (i = 20; i >= 1; i -= 2){
-    return i
+    result7.push(i)
   }
+  return result7
 }
 
 //call function evenNumbersBackwards
