@@ -19,14 +19,11 @@ function evensToTwenty(){
 //call function evensToTwenty
 
 function oddsToTwenty() {
-    
-  /* Your code goes below
-  Write a for or a while loop
-  return the result */
+  let result3 = []
   for (i = 1; i <= 20; i += 2){
-    return i
+    result3.push(i)
   }
-   
+  return result3
 }
 
 //call function oddsToTwenty
