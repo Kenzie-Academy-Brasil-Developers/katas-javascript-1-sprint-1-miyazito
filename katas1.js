@@ -6,7 +6,7 @@ function oneThroughTwenty() {
   return result1
 }
 
-//call function oneThroughTwenty
+oneThroughTwenty()
 
 function evensToTwenty(){
   let result2 = []
@@ -16,7 +16,7 @@ function evensToTwenty(){
   return result2
 }
 
-//call function evensToTwenty
+evensToTwenty()
 
 function oddsToTwenty() {
   let result3 = []
@@ -26,7 +26,7 @@ function oddsToTwenty() {
   return result3
 }
 
-//call function oddsToTwenty
+oddsToTwenty()
 
 function multiplesOfFive() {
   let result4 = []
@@ -36,7 +36,7 @@ function multiplesOfFive() {
   return result4
 }
 
-//call function multiplesOfFive
+multiplesOfFive()
 
 function squareNumbers() {
   let result5 = []
@@ -46,7 +46,7 @@ function squareNumbers() {
   return result5  
 }
 
-//call function squareNumbers
+squareNumbers()
 
 function countingBackwards() {
   let result6 = []
@@ -56,7 +56,7 @@ function countingBackwards() {
   return result6
 }
 
-//call function countingBackwards
+countingBackwards()
 
 function evenNumbersBackwards() {
   let result7 = []
@@ -66,7 +66,7 @@ function evenNumbersBackwards() {
   return result7
 }
 
-//call function evenNumbersBackwards
+evenNumbersBackwards()
 
 function oddNumbersBackwards() { 
   let result8 = []
@@ -76,7 +76,7 @@ function oddNumbersBackwards() {
   return result8
 }
 
-//call function oddNumbersBackwards
+oddNumbersBackwards()
 
 function multiplesOfFiveBackwards() {
   let result9 = []
@@ -87,7 +87,7 @@ function multiplesOfFiveBackwards() {
   return result9
 }
 
-//call function multiplesOfFiveBackwards
+multiplesOfFiveBackwards()
 
 function squareNumbersBackwards() {
   let result10 = []
@@ -97,4 +97,4 @@ function squareNumbersBackwards() {
   return result10
 }
 
-//call function squareNumbersBackwards
+squareNumbersBackwards()
