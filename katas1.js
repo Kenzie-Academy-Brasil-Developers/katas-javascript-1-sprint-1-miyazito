@@ -68,14 +68,12 @@ function evenNumbersBackwards() {
 
 //call function evenNumbersBackwards
 
-function oddNumbersBackwards() {
-    
- /* Your code goes below
-  Write a for or a while loop
-  return the result */
+function oddNumbersBackwards() { 
+  let result8 = []
   for (i = 19; i >= 1; i -= 2){
-    return i
+    result8.push(i)
   }
+  return result8
 }
 
 //call function oddNumbersBackwards
