@@ -39,14 +39,11 @@ function multiplesOfFive() {
 //call function multiplesOfFive
 
 function squareNumbers() {
-    
- /* Your code goes below
-  Write a for or a while loop
-  return the result */
+  let result5 = []
   for (i = 1; i <= 10; i++){
-    return i * i
+    result5.push(i * i)
   }
-    
+  return result5  
 }
 
 //call function squareNumbers
