@@ -79,13 +79,12 @@ function oddNumbersBackwards() {
 //call function oddNumbersBackwards
 
 function multiplesOfFiveBackwards() {
-    
- /* Your code goes below
-  Write a for or a while loop
-  return the result */
+  let result9 = []
   for (i = 20; i >= 1; i--){
-    return i * 5
+    result9.push(i * 5)
   }
+  
+  return result9
 }
 
 //call function multiplesOfFiveBackwards
